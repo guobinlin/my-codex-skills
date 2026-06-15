@@ -1,0 +1,4 @@
+interface:
+  display_name: "Football Shoe Background"
+  short_description: "Composite football shoe product photos onto realistic turf scenes."
+  default_prompt: "Use $replace-football-shoe-background to replace a football shoe product photo background with a realistic football field scene."
